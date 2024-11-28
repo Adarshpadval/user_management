@@ -36,7 +36,7 @@ This is the Steps for the User Management System. Follow the steps below to set 
 
     ```bash
     cd /path/to/xampp/htdocs/user_management_backend
-    ```.
+    ```
 
 2. Set up the backend API by modifying the configuration files (if needed). Ensure that the backend is pointing to your local MySQL database (`localhost`), using the `user_management` database.
 
