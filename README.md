@@ -31,7 +31,14 @@ This is the Steps for the User Management System. Follow the steps below to set 
 
 ### Step 3: Run the Backend
 
-1. Set up the backend API by modifying the configuration files (if needed). Ensure that the backend is pointing to your local MySQL database (`localhost`), using the `user_management` database.
+1.  inside the `xampp/htdocs/` directory.
+2. extract `user_management_backend` folder  conain in clone
+
+    ```bash
+    cd /path/to/xampp/htdocs/user_management_backend
+    ```.
+
+2. Set up the backend API by modifying the configuration files (if needed). Ensure that the backend is pointing to your local MySQL database (`localhost`), using the `user_management` database.
 
 
     This will start the backend API on your local machine. The default port is usually `3000` (or you can configure it to any port you prefer).
