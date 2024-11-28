@@ -27,27 +27,12 @@ This is the Steps for the User Management System. Follow the steps below to set 
     git clone https://github.com/Adarshpadval/user_management.git
     ```
 
-2. Navigate to the `user_management_backend` folder inside the `xampp/htdocs/` directory.
 
-    ```bash
-    cd /path/to/xampp/htdocs/user_management_backend
-    ```
-
-3. Install the required dependencies.
-
-    ```bash
-    npm install
-    ```
-
-4. Set up the backend API by modifying the configuration files (if needed). Ensure that the backend is pointing to your local MySQL database (`localhost`), using the `user_management` database.
 
 ### Step 3: Run the Backend
 
-1. Start the backend server:
+1. Set up the backend API by modifying the configuration files (if needed). Ensure that the backend is pointing to your local MySQL database (`localhost`), using the `user_management` database.
 
-    ```bash
-    npm start
-    ```
 
     This will start the backend API on your local machine. The default port is usually `3000` (or you can configure it to any port you prefer).
 
